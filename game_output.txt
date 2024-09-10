@@ -1,0 +1,66 @@
+Grid size: 5x5
+Player's initial position: [2, 2]
+
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  P  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+
+Your current position is: [2, 2]
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  P  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+
+You are getting closer to the treasure!
+Remaining moves: 9
+
+Your current position is: [2, 1]
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  P  .  .  . 
+ .  .  .  .  . 
+
+You are getting closer to the treasure!
+Remaining moves: 8
+
+Your current position is: [3, 1]
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ P  .  .  .  . 
+ .  .  .  .  . 
+
+You are moving away from the treasure.
+Remaining moves: 7
+
+Your current position is: [3, 0]
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ P  .  .  .  . 
+
+You are getting closer to the treasure!
+Remaining moves: 6
+
+Your current position is: [4, 0]
+Invalid move: You can't go beyond the grid!
+Your current position is: [4, 0]
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  P  .  .  . 
+
+Congratulations! You found the treasure in 5 moves!
+The treasure was at position: [4, 1]
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  .  .  .  . 
+ .  P  .  .  . 
+
